@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.AssemblyInfo.cs
+/Users/Guest/Desktop/ping_pong/bin/Debug/netcoreapp2.2/Ping_pong.deps.json
+/Users/Guest/Desktop/ping_pong/bin/Debug/netcoreapp2.2/Ping_pong.runtimeconfig.json
+/Users/Guest/Desktop/ping_pong/bin/Debug/netcoreapp2.2/Ping_pong.runtimeconfig.dev.json
+/Users/Guest/Desktop/ping_pong/bin/Debug/netcoreapp2.2/Ping_pong.dll
+/Users/Guest/Desktop/ping_pong/bin/Debug/netcoreapp2.2/Ping_pong.pdb
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.dll
+/Users/Guest/Desktop/ping_pong/obj/Debug/netcoreapp2.2/Ping_pong.pdb
